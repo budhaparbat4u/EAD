@@ -16,7 +16,7 @@ public class SingletonDemo {
         System.out.println(test1.hashCode());
         System.out.println(test2.hashCode());
 
-        // Output
+        // Outputs
         /**
          * 918221580
          * 918221580
